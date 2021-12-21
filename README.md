@@ -23,14 +23,14 @@ pip3 install requirements.txt
 ```sh
 usage: main.py [-h] [--server-host SERVER_HOST] [--server-port SERVER_PORT] [--pixel-size PIXEL_SIZE]
 
-Awtrix终端模拟器
+awtrix终端模拟器
 
 optional arguments:
   -h, --help            show this help message and exit
   --server-host SERVER_HOST
-                        awtrix服务器域名
+                        awtrix服务器域名（默认是为localhost）
   --server-port SERVER_PORT
-                        awtrix服务器端口
+                        awtrix服务器端口（默认为7001）
   --pixel-size PIXEL_SIZE
-                        awtrix像素尺寸
+                        awtrix像素的尺寸（默认为2）
 ```
