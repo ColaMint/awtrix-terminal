@@ -12,7 +12,7 @@
 
 ## 运行效果
 
-![image](./awtrix.gif)
+![image](./images/awtrix.gif)
 
 ## 运行教程
 

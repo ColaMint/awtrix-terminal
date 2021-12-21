@@ -215,8 +215,13 @@ class Awtrix:
 
 
 def current_milli_time():
+    """获取毫秒时间戳"""
     return round(time.time() * 1000)
 
 
 def read_short(payload):
+    """从字节流中读取16位的整型
+
+    :param payload: 字节流
+    """
     return int(numpy.frombuffer(payload, numpy.dtype('>i2')))
