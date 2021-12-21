@@ -23,7 +23,7 @@ pip3 install requirements.txt
 ```sh
 usage: main.py [-h] [--server-host SERVER_HOST] [--server-port SERVER_PORT] [--pixel-size PIXEL_SIZE]
 
-awtrix终端模拟器
+awtrix模拟客户端
 
 optional arguments:
   -h, --help            show this help message and exit

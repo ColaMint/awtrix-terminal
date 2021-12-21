@@ -8,7 +8,7 @@ import argparse
 from awtrix import Awtrix
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='awtrix终端模拟器')
+    parser = argparse.ArgumentParser(description='awtrix模拟客户端')
     parser.add_argument('--server-host',
                         dest='server_host',
                         type=str,
