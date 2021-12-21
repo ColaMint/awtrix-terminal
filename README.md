@@ -1,6 +1,6 @@
 # awtrix-terminal
 
-awtrix 终端模拟客户端
+运行在终端的 awtrix 模拟客户端
 
 ## 什么是 awtrix
 
@@ -13,3 +13,24 @@ awtrix 终端模拟客户端
 ## 运行效果
 
 ![image](./awtrix.gif)
+
+## 运行教程
+
+```sh
+pip3 install requirements.txt
+```
+
+```sh
+usage: main.py [-h] [--server-host SERVER_HOST] [--server-port SERVER_PORT] [--pixel-size PIXEL_SIZE]
+
+Awtrix终端模拟器
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --server-host SERVER_HOST
+                        awtrix服务器域名
+  --server-port SERVER_PORT
+                        awtrix服务器端口
+  --pixel-size PIXEL_SIZE
+                        awtrix像素尺寸
+```
