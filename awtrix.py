@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Awtrix客户端
+awtrix客户端
 """
 
 import time
