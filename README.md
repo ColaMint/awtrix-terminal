@@ -1,6 +1,6 @@
 # awtrix-terminal
 
-运行在终端的 awtrix 模拟客户端
+运行在终端的 awtrix 客户端
 
 ## 什么是 awtrix
 
@@ -37,4 +37,4 @@ optional arguments:
 
 ## 注意
 
-- mac 用户建议使用 iTerm 终端运行运行本程序，系统自带的终端对颜色的支持不完整
+- mac 用户建议使用 iTerm 终端运行本程序，系统自带的终端对颜色的支持不完整
