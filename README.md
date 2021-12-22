@@ -34,3 +34,7 @@ optional arguments:
   --pixel-size PIXEL_SIZE
                         awtrix像素的尺寸（默认为2）
 ```
+
+## 注意
+
+- mac 用户建议使用 iTerm 终端运行运行本程序，系统自带的终端对颜色的支持不完整
